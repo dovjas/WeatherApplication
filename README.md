@@ -1,5 +1,5 @@
 # WeatherApplication
-App made using tkinter for GUI and BS4
 
-Python desktop project made using: Tkinter for GUI, Beautiful soup and Requests module for web scraping. 
+A minimal dekstop application that displays the live weather data in Vilnius. 
+Made using: Python,Tkinter for GUI, BeautifulSoup4 and Requests module for web scraping. 
 The data is collected from https://weather.com/
