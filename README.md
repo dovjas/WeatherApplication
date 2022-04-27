@@ -8,8 +8,8 @@ Made using:
 
 The data is collected from https://weather.com/
 
-Information About Files
+# Information About Files:
 
-    weather.png : Image used in the program
-    WeatherApplicationVersion1.png : Final Result of the program
-    app.py : Implementation of the WeatherApplication
+weather.png : Image used in the program
+WeatherApplicationVersion1.png : Final Result of the program
+app.py : Implementation of the WeatherApplication
